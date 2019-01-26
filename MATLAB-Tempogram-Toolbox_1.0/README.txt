@@ -3,7 +3,7 @@
 
 
 	The Tempogram Toolbox has been developed by Peter Grosche and Meinard 
-	MÃ¼ller. It contains MATLAB implementations for extracting various types 
+	Müller. It contains MATLAB implementations for extracting various types 
 	of recently proposed tempo and pulse related audio representations [1, 
 	2, 3]. These representations are particularly designed to reveal useful 
 	information even for music with weak note onset information and changing 
